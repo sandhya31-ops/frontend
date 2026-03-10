@@ -4,4 +4,5 @@
 // const num =  new Array(1,2,3,4,5)
 // console.log(num.length);
 const bar = ["low","high"]
-console.log(bar[1])
+// console.log(bar[1])
+console.log("Hello World!")
