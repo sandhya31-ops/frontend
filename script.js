@@ -5,4 +5,8 @@
 // console.log(num.length);
 const bar = ["low","high"]
 // console.log(bar[1])
-console.log("Hello World!")
+// console.log("Hello World!")
+const fruits = ["apple","grapes"
+]
+fruits[2]="banana"
+console.log(fruits )
